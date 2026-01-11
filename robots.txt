@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yongnami.github.io/profile/sitemap.xml
+Sitemap: https://yongnami.github.io.profile/sitemap.xml
